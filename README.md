@@ -1,4 +1,5 @@
 Run `composer install`
+
 Run `php ./vendor/bin/simple-phpunit`
 
 ```
